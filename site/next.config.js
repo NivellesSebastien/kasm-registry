@@ -2,12 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported applications.',
+    name: 'Nivelles Technologies',
+    description: 'The official store for Nivelles supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/list.json',
-    contactUrl: 'https://kasmweb.com/support',
-    schema: '1.0',
+    listUrl: 'https://nivellessebastien.github.io/kasm-registry/',
+    contactUrl: '',
   },
   reactStrictMode: true,
   swcMinify: true,
